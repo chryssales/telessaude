@@ -43,7 +43,7 @@ class PagesController extends AppController {
  *
  * @var array
  */
-	public $helpers = array('Html', 'Session');
+	public $helpers = array('Html', 'Session','Form');
 
 /**
  * This controller does not use a model
@@ -78,5 +78,41 @@ class PagesController extends AppController {
 		}
 		$this->set(compact('page', 'subpage', 'title_for_layout'));
 		$this->render(implode('/', $path));
+	}
+	
+	public function home(){
+		
+	}
+	
+	public function apresentacao(){
+		
+	}
+	
+	public function contato(){
+		
+	}
+	
+	public function equipe(){
+		
+	}
+	
+	public function servicos(){
+		
+	}
+	
+	public function noticias(){
+		
+	}
+	
+	public function agenda(){
+		
+	}
+	
+	public function artigos(){
+		
+	}
+	
+	public function search(){
+		
 	}
 }

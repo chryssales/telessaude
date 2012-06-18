@@ -1,0 +1,110 @@
+@CHARSET "ISO-8859-1";
+body{
+	margin:0 0 0 0;
+	font-family: Arial;
+	font-size: 12px;
+	background-image: url("../img/bg.png");
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	height: 100%;
+}
+
+.top{
+	background: url('../img/bgTop.png') repeat-x; 
+	height:42px;
+}
+
+.searchButton input{
+	background-image: url('../img/search.png');
+	height:23px;
+	width:24px;
+	border:0px;
+}
+
+.whitePadding{
+	padding-top: 10px;
+	padding-bottom: 10px; 
+	color:#ffffff;
+}
+
+.sectionTitle
+{
+	margin-bottom: 10px;
+	font-size: 20px;
+	text-align: left;
+}
+
+.whiteLink
+{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.whiteBottomBorder
+{
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #ffffff;
+}
+
+.leftColumn
+{
+	width: 20%;
+}
+
+.rightColumn
+{
+	width: 20%;
+}
+
+.middleColumn
+{
+	width: 60%;
+}
+
+.borderLogin
+{
+	border-left: 1px solid #c0c0c0;
+	border-bottom: 1px solid #c0c0c0;
+	border-right: 1px solid #c0c0c0;
+}
+.smallRedLink
+{
+	font-size: 10px;
+	color: #A70000;
+	text-decoration: none;
+}
+
+.grayBorder
+{
+	border:1px solid #999999;
+}
+
+.menuTop{
+	list-style-type: none;
+	background-color: #377ab4;
+	height: 40px;
+	margin: 0;
+	padding-left: 12%;
+	background-image: url("../img/bgMenuTop.png");
+}
+
+.menuTop li{
+	float: left;
+}
+
+.menuTop a{
+	display:block;
+	line-height: 40px;
+	padding-right: 12px;
+	padding-left:12px;
+	text-decoration:none;
+	color: #ffffff;
+	background-image: url("../img/bgMenuDivider.png");
+	background-repeat: no-repeat;
+	background-position: right;	
+}
+
+.menuTop a:hover{
+	color: #8ac4ff;
+}

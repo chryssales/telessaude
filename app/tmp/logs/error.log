@@ -133,3 +133,1258 @@
 #1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(NeighborhoodsController), Object(CakeRequest), Object(CakeResponse))
 #2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2012-06-18 13:33:09 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:33:09 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:33:09 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:33:09 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:33:09 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+
+2012-06-18 13:33:09 Error: [MissingControllerException] Controller class Facebook.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:33:09 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:34:49 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:34:49 Error: [MissingControllerException] Controller class Facebook.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:34:49 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:34:49 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:34:49 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:34:49 Error: [MissingControllerException] Controller class Twitter.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:34:50 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:34:50 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:35:49 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:35:49 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:35:49 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:35:49 Error: [MissingControllerException] Controller class Facebook.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:35:49 Error: [MissingControllerException] Controller class Twitter.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:35:49 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:35:49 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:35:49 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:36:55 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:36:55 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:36:55 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:36:55 Error: [MissingControllerException] Controller class Twitter.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:36:55 Error: [MissingControllerException] Controller class Facebook.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:36:55 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:36:55 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:36:55 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:11 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:11 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:11 Error: [MissingControllerException] Controller class Twitter.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:11 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:12 Error: [MissingControllerException] Controller class Facebook.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:12 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:12 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:12 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:52 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:52 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:52 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:52 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:52 Error: [MissingControllerException] Controller class Twitter.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:52 Error: [MissingControllerException] Controller class Facebook.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:52 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:52 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:57 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:57 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:57 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:57 Error: [MissingControllerException] Controller class Twitter.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:57 Error: [MissingControllerException] Controller class Facebook.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:57 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:57 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:37:58 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:04 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:04 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:04 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:04 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:04 Error: [MissingControllerException] Controller class Twitter.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:04 Error: [MissingControllerException] Controller class Facebook.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:04 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:04 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:10 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:10 Error: [MissingControllerException] Controller class Twitter.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:10 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:10 Error: [MissingControllerException] Controller class Facebook.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:10 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:10 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:10 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:10 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:53 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:53 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:53 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:53 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:53 Error: [MissingControllerException] Controller class Twitter.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:53 Error: [MissingControllerException] Controller class Facebook.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:53 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:53 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:56 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:56 Error: [MissingControllerException] Controller class Twitter.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:56 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:56 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:56 Error: [MissingControllerException] Controller class Facebook.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:56 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:56 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:38:56 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:41 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:41 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:41 Error: [MissingControllerException] Controller class Twitter.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:41 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:41 Error: [MissingControllerException] Controller class Facebook.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:41 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:41 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:41 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:55 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:55 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:55 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:55 Error: [MissingControllerException] Controller class Twitter.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:55 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:55 Error: [MissingControllerException] Controller class Facebook.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:55 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:39:55 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:41:12 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:41:12 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:41:12 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:41:12 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:41:13 Error: [MissingControllerException] Controller class Twitter.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:41:13 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:41:13 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:42:26 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:42:26 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:42:26 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:42:26 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:42:26 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:42:26 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:44:59 Error: [MissingControllerException] Controller class Header.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:44:59 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:44:59 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+ain}
+2012-06-18 13:44:59 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:47:44 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:47:44 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:47:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:47:44 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:47:44 Error: [MissingControllerException] Controller class LeftShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:47:44 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:09 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:09 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:09 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:09 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:09 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:12 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:12 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:12 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:12 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:37 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:37 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:37 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:48:38 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:52:58 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:52:58 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:52:58 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:52:58 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:52:58 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:53:15 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:53:15 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:53:15 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:53:15 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:55:17 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:55:17 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:55:17 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 13:55:17 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:01:19 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:01:19 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:01:20 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:01:25 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:01:25 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:01:25 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:01:58 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:01:58 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:01:58 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:02:21 Error: [MissingControllerException] Controller class Logopb.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:02:21 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:02:21 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:02:59 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:03:00 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:05:52 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:05:52 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:05:52 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:05:52 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:05:52 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:05:52 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:06:50 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:06:50 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:06:50 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:06:50 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:06:50 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:06:50 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:09:37 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:09:37 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:09:37 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:09:37 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:09:37 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:09:37 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:10:59 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:10:59 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:10:59 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:10:59 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:10:59 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:10:59 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:12:32 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:12:32 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:12:32 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:12:32 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:12:32 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:12:32 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:12:53 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:12:53 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:12:53 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:12:53 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:12:53 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:12:53 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:33 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:33 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:33 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:33 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:33 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:33 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:43 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:43 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:43 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:43 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:43 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:43 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:59 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:59 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:59 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:59 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:59 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:13:59 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:04 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:04 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:04 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:04 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:04 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:04 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:19 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:19 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:19 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:19 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:19 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:19 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:30 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:30 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:30 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:30 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:30 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:30 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:36 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:36 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:36 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:36 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:36 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:14:36 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:15:08 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:15:08 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:15:08 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:15:08 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:15:08 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:15:08 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:15:26 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:15:26 Error: [MissingControllerException] Controller class S1.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:15:27 Error: [MissingControllerException] Controller class S2.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:15:27 Error: [MissingControllerException] Controller class S3.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:15:27 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:15:27 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:16:59 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:16:59 Error: [MissingControllerException] Controller class Eventos.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:16:59 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:17:45 Error: [MissingControllerException] Controller class Search.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:17:45 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:18:25 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:18:53 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:18:55 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:19:48 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:20:13 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:20:14 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:22:13 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:22:18 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:22:39 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:24:25 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:27:57 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:27:59 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:28:00 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:28:57 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:34:27 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:34:28 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:34:34 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:34:36 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:35:32 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:35:33 Error: [MissingActionException] Action PagesController::home() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:35:33 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:35:54 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:35:55 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:35:57 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:38:43 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:38:44 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:38:47 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:38:48 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:41:19 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:41:20 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:41:21 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:41:22 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:41:23 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:41:24 Error: [MissingViewException] View file "C:\wamp\www\telessaude\app\View\Pages\contato.ctp" is missing.
+#0 C:\wamp\www\telessaude\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\telessaude\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-06-18 14:41:24 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:41:28 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:41:29 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:41:30 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:41:31 Error: [MissingViewException] View file "C:\wamp\www\telessaude\app\View\Pages\contato.ctp" is missing.
+#0 C:\wamp\www\telessaude\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\telessaude\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-06-18 14:41:31 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:41:47 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:43:41 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:50:04 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:50:06 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:50:08 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:50:30 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:50:31 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:50:32 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:50:32 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:51:09 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:51:10 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:51:27 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:51:39 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:52:17 Error: [MissingControllerException] Controller class RightShadow.pngController could not be found.
+#0 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-18 14:52:19 Error: [MissingViewException] View file "C:\wamp\www\telessaude\app\View\Pages\search.ctp" is missing.
+#0 C:\wamp\www\telessaude\lib\Cake\View\View.php(460): View->_getViewFileName('search')
+#1 C:\wamp\www\telessaude\lib\Cake\Controller\Controller.php(959): View->render('search', NULL)
+#2 C:\wamp\www\telessaude\app\Controller\PagesController.php(80): Controller->render('search')
+#3 [internal function]: PagesController->display('search')
+#4 C:\wamp\www\telessaude\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-06-18 14:52:19 Error: [MissingViewException] View file "C:\wamp\www\telessaude\app\View\Pages\right_shadow.png.ctp" is missing.
+#0 C:\wamp\www\telessaude\lib\Cake\View\View.php(460): View->_getViewFileName('rightShadow.png')
+#1 C:\wamp\www\telessaude\lib\Cake\Controller\Controller.php(959): View->render('rightShadow.png', NULL)
+#2 C:\wamp\www\telessaude\app\Controller\PagesController.php(80): Controller->render('rightShadow.png')
+#3 [internal function]: PagesController->display('rightShadow.png')
+#4 C:\wamp\www\telessaude\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-06-18 14:52:19 Error: [MissingViewException] View file "C:\wamp\www\telessaude\app\View\Pages\right_shadow.png.ctp" is missing.
+#0 C:\wamp\www\telessaude\lib\Cake\View\View.php(460): View->_getViewFileName('rightShadow.png')
+#1 C:\wamp\www\telessaude\lib\Cake\Controller\Controller.php(959): View->render('rightShadow.png', NULL)
+#2 C:\wamp\www\telessaude\app\Controller\PagesController.php(80): Controller->render('rightShadow.png')
+#3 [internal function]: PagesController->display('rightShadow.png')
+#4 C:\wamp\www\telessaude\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-06-18 14:54:40 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:54:42 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:55:17 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:55:47 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:55:57 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:55:58 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:55:59 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:56:02 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:56:03 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:56:04 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:56:05 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:56:06 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:56:07 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:57:30 Error: [MissingViewException] View file "C:\wamp\www\telessaude\app\View\Pages\right_shadow.png.ctp" is missing.
+#0 C:\wamp\www\telessaude\lib\Cake\View\View.php(460): View->_getViewFileName('rightShadow.png')
+#1 C:\wamp\www\telessaude\lib\Cake\Controller\Controller.php(959): View->render('rightShadow.png', NULL)
+#2 C:\wamp\www\telessaude\app\Controller\PagesController.php(80): Controller->render('rightShadow.png')
+#3 [internal function]: PagesController->display('rightShadow.png')
+#4 C:\wamp\www\telessaude\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-06-18 14:58:13 Error: [MissingViewException] View file "C:\wamp\www\telessaude\app\View\Pages\right_shadow.png.ctp" is missing.
+#0 C:\wamp\www\telessaude\lib\Cake\View\View.php(460): View->_getViewFileName('rightShadow.png')
+#1 C:\wamp\www\telessaude\lib\Cake\Controller\Controller.php(959): View->render('rightShadow.png', NULL)
+#2 C:\wamp\www\telessaude\app\Controller\PagesController.php(80): Controller->render('rightShadow.png')
+#3 [internal function]: PagesController->display('rightShadow.png')
+#4 C:\wamp\www\telessaude\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-06-18 14:58:13 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:58:13 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:59:38 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:59:38 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:59:38 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:59:39 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:59:40 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:59:40 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:59:41 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:59:41 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:59:41 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:59:42 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:59:42 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 14:59:42 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 15:00:07 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 15:00:11 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 15:00:14 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 15:01:14 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 15:01:24 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 15:01:36 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 15:02:08 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 15:02:37 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 15:03:01 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-18 15:03:44 Error: [MissingActionException] Action PagesController::rightShadow.png() could not be found.
+#0 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\telessaude\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\telessaude\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
