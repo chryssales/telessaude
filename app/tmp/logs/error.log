@@ -1,0 +1,135 @@
+2012-05-17 11:51:26 Error: [MissingActionException] Action AppController::index() could not be found.
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-05-17 12:16:42 Error: [MissingActionException] Action AppController::index() could not be found.
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\cakephp\app\index.php(17): require('C:\wamp\www\cak...')
+#4 {main}
+2012-05-17 12:19:02 Error: [MissingActionException] Action AppController::index() could not be found.
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\cakephp\app\index.php(17): require('C:\wamp\www\cak...')
+#4 {main}
+2012-05-17 12:23:45 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#2 {main}
+2012-05-17 12:24:16 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#2 {main}
+2012-05-17 12:24:48 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#2 {main}
+2012-05-17 12:25:12 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#2 {main}
+2012-05-17 12:25:12 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#2 {main}
+2012-05-17 12:25:12 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#2 {main}
+2012-05-17 12:25:12 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#2 {main}
+2012-05-17 12:25:16 Error: [MissingActionException] Action PostsController::css() could not be found.
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#4 {main}
+2012-05-17 12:25:16 Error: [MissingActionException] Action PostsController::img() could not be found.
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#4 {main}
+2012-05-17 12:25:16 Error: [MissingActionException] Action PostsController::favicon.ico() could not be found.
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#4 {main}
+2012-05-17 12:25:20 Error: [MissingActionException] Action PostsController::posts() could not be found.
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#4 {main}
+2012-05-17 12:25:20 Error: [MissingActionException] Action PostsController::posts() could not be found.
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#4 {main}
+2012-05-17 12:25:20 Error: [MissingActionException] Action PostsController::posts() could not be found.
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#4 {main}
+2012-05-17 12:25:20 Error: [MissingActionException] Action PostsController::posts() could not be found.
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#4 {main}
+2012-05-17 12:25:23 Error: [MissingActionException] Action PostsController::favicon.ico() could not be found.
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\cakephp\index.php(40): require('C:\wamp\www\cak...')
+#4 {main}
+2012-05-17 12:26:50 Error: [MissingActionException] Action PostsController::view() could not be found.
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-05-17 12:29:22 Error: [MissingViewException] View file "C:\wamp\www\cakephp\app\View\Posts\view.ctp" is missing.
+#0 C:\wamp\www\cakephp\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-05-21 12:04:24 Error: [MissingViewException] View file "C:\wamp\www\cakephp\app\View\Posts\delete.ctp" is missing.
+#0 C:\wamp\www\cakephp\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-05-28 11:50:56 Error: [MissingControllerException] Controller class BlogController could not be found.
+#0 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-28 11:56:16 Error: [MissingControllerException] Controller class MyappController could not be found.
+#0 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-28 11:56:21 Error: [MissingControllerException] Controller class MyappController could not be found.
+#0 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-28 11:56:25 Error: [MissingControllerException] Controller class MyappController could not be found.
+#0 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-28 11:56:46 Error: [MissingControllerException] Controller class MyappController could not be found.
+#0 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-30 11:45:55 Error: [MissingControllerException] Controller class NeighborhoodController could not be found.
+#0 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-30 11:54:34 Error: [MissingActionException] Action NeighborhoodsController::auto_complete() could not be found.
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(NeighborhoodsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
