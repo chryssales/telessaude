@@ -62,7 +62,7 @@
 				</div>
 				<div id="menu" style="clear: both">
 					<ul class="menuTop">
-						<li><?php echo $this->Html->link('Página Inicial',array('controller'=>'Pages','action'=>'home'))?></li>	
+						<li><?php echo $this->Html->link('Página Inicial',array('controller'=>'Pages','action'=>'index'))?></li>	
 						<li><?php echo $this->Html->link('Apresentação',array('controller'=>'Pages','action'=>'apresentacao'))?></li>
 						<li><?php echo $this->Html->link('Equipe',array('controller'=>'Pages','action'=>'equipe'))?></li>
 						<li><?php echo $this->Html->link('Serviços',array('controller'=>'Pages','action'=>'servicos'))?></li>

@@ -1,0 +1,336 @@
+a {text-decoration: none;}
+.addcoursebutton .singlebutton {text-align: center;}
+
+.header{
+	background: url([[pix:theme|bgmenutop]]) repeat-x;
+}
+
+h2.main {
+    border-bottom: 3px solid #013D6A;
+    color: #013D6A;
+    text-align: center;
+}
+ 
+h2.headingblock {
+    font-size: 18pt;
+    margin-top: 0;
+    background-color: #013D6A;
+    color: #FFF;
+    text-align: center;
+}
+ 
+#page-header {
+    background-color: #013D6A;
+}
+ 
+#page-header .headermenu {
+    color: #FFF;
+}
+ 
+#page-header .headermenu a {
+    color: #FDFF2A;
+}
+ 
+.navbar {
+    padding-left: 55px;
+    height: 40px;
+    line-height: 40px;
+    background-color: #f0f0f0;
+}
+ 
+.breadcrumb li {
+    color: #377ab4;
+}
+ 
+.breadcrumb li a {
+    color: #377ab4;
+}
+ 
+.block {
+    background-color: #013D6A;
+}
+ 
+.block .header .title {
+    color: #FFF;
+}
+ 
+.block .header .title .block_action input {
+    background-color: #FFF;
+}
+ 
+.block .content {
+    border: 1px solid #c0c0c0;
+    padding: 5px;
+    background-color: #FFF;
+}
+ 
+.block .content .block_tree p {
+    font-size: 80%;
+}
+ 
+.block_settings_navigation_tree .content .footer {
+    text-align: center;
+}
+ 
+.block_settings_navigation_tree .content .footer .adminsearchform {
+    margin-left: 5%;
+    width: 90%;
+    font-size: 9pt;
+}
+ 
+.block_settings_navigation_tree .content .footer .adminsearchform #adminsearchquery {
+    width: 95%;
+}
+ 
+.block_calendar_month .content .calendar-controls a {
+    color: #013D6A;
+    font-weight: bold;
+}
+ 
+.block_calendar_month .content .minicalendar td {
+    border-color: #FFF;
+}
+ 
+.block_calendar_month .content .minicalendar .day {
+    color: #FFF;
+    background-color: #013D6A;
+}
+ 
+.block_calendar_month .content .minicalendar .day a {
+    color: #FFF000;
+}
+ 
+.block_calendar_month .content .minicalendar .weekdays th {
+    border-width: 0;
+    font-weight: bold;
+    color: #013D6A;
+}
+ 
+.block_calendar_month .content .minicalendar .weekdays abbr {
+    border-width: 0;
+    text-decoration: none;
+}
+
+/* CSS CUSTOMIZADO */
+
+.bannertop{
+	background: url([[pix:theme|bgtop]]) repeat-x;	 
+	height: 42px;
+}
+
+.logininfo
+{
+	text-align: right; 
+	padding-right: 20px;
+	color: #ffffff;
+	line-height: 40px;	
+}
+
+.logininfo a{
+	font-weight: bold;
+	color:#ffffff;
+}
+
+.bannerbottom{
+	background-color: #377ab4;
+}
+
+.HeaderMenu{
+	width: 20%;
+	border:1px solid #c0c0c0;
+	background-color:#999999;
+	float: left;
+	color: #abcdef;
+	text-align: left;
+}
+
+.HeaderLogo{
+	width:50%; 
+	padding-top: 10px;
+	float:left;
+	
+}
+
+#HeaderContainer{
+	width:80%;
+	height: 100%;
+}
+
+#ts-page-content
+{
+	width:100%;
+}
+
+#ts-page{
+	height: auto;
+}
+
+body{
+	background: url([[pix:theme|bg]]) repeat-x fixed;
+}
+
+#region-post,
+#region-pre{
+	width: 190px;
+}
+
+
+#region-post,
+#region-main-wrap,
+#region-full,
+#region-half-full,
+#region-pre{
+	float: left;
+	margin: 0px 5px 0px 5px;
+}
+
+#region-pre{
+	margin-left: 8px;
+}
+
+#region-main-wrap
+{
+	width: 61%;
+}
+
+#region-half-full{
+	width:76%;
+}
+
+#region-full
+{
+	width:100%;
+}
+
+#page-footer{
+	float: none;
+}
+
+#page-footer .logininfo{
+	margin:0;
+	background-color: #000000;
+}
+
+#page-footer .sitelink{
+	margin: 10px 0px;
+}
+
+.SpacerDiv{
+	float: left;
+	width: 4%;
+}
+
+.navbutton
+{
+	margin-right: 20px;
+}
+
+.leftColumn
+{
+	background: url([[pix:theme|leftShadow]]) repeat-y right;
+	width: 10%;
+}
+
+.rightColumn
+{
+	background: url([[pix:theme|rightShadow]]) repeat-y;
+	width: 9%;
+}
+
+#ts-region-main-box
+{
+	float:left;
+	width: 80%;
+	background-color: #ffffff;
+}
+
+html{
+	background-color:transparent;
+}
+
+.signature
+{
+	margin: 10px 0px;
+	color: #FFFFFF;
+}
+
+.tree_item a:hover, a:hover{
+	color:#abcdef;
+}
+
+.tree_item a, a{
+	color: #377AB4;
+}
+
+.block .content .block_tree p
+{
+	font-size: 100%;
+}
+
+.block .header h2
+{
+	margin: 0px;
+	padding: 5px;
+}
+
+#content
+{
+	width:80%; 
+	text-align: center; 
+	margin-top: 10%; 
+	height:50%; 
+	background-color:#ffffff; 
+	padding: 20px 0px; 
+	border: 1px solid #c0c0c0; 
+	margin-left:10%;
+}
+
+.options
+{
+	background-color:#f0f0f0; 
+	padding: 5px;
+	margin-left: 0px !important;
+}
+
+.topic
+{
+	text-align: left;
+}
+
+.topic .subject,
+.topic .author a
+{
+	color: #ffffff;
+}
+
+.topic .subject
+{
+	font-weight: bold;
+}
+
+.topic
+{
+	padding-top: 4px;
+}
+
+.topic .author
+{
+	font-style: italic;
+	color: #c0c0c0;
+}
+
+.helplink a,
+.homelink a
+{
+	color: #ffffff;
+}
+
+.helplink
+{
+	padding-bottom: 10px;
+}
+
+.region-content .block
+{
+	border: 0px;
+}

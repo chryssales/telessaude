@@ -65,7 +65,7 @@ class DATABASE_CONFIG {
 		'host' => 'localhost',
 		'login' => 'cdidesenv',
 		'password' => 'cdidesenv',
-		'database' => 'test',
+		'database' => 'telessaude',
 		'prefix' => '',
 		'encoding' => 'utf8',
 	);

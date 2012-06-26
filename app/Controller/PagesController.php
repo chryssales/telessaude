@@ -50,7 +50,7 @@ class PagesController extends AppController {
  *
  * @var array
  */
-	public $uses = array();
+	public $uses = array('Link','Support','News');
 
 /**
  * Displays a view
@@ -80,8 +80,11 @@ class PagesController extends AppController {
 		$this->render(implode('/', $path));
 	}
 	
-	public function home(){
-		
+	public function index(){
+		$links = $this->Link->find('all');
+		$supports = $this->Support->find('all');
+		$news = $this->News->find('all');
+		$this->set(compact('links','supports','news'));
 	}
 	
 	public function apresentacao(){
