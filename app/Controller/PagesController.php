@@ -43,15 +43,15 @@ class PagesController extends AppController {
  *
  * @var array
  */
-	public $helpers = array('Html', 'Session','Form');
+	public $helpers = array('Html', 'Session','Form','Time','Js');
 
 /**
  * This controller does not use a model
  *
  * @var array
  */
-	public $uses = array('Link','Support','News');
-
+	public $uses = array('Link','Support','News','Event');
+	
 /**
  * Displays a view
  *
@@ -80,11 +80,24 @@ class PagesController extends AppController {
 		$this->render(implode('/', $path));
 	}
 	
+	public function admin_index(){
+		$this->layout = 'telessaude-admin';
+	}
+	
+	
 	public function index(){
+		
 		$links = $this->Link->find('all');
 		$supports = $this->Support->find('all');
-		$news = $this->News->find('all');
-		$this->set(compact('links','supports','news'));
+		$news = $this->News->find('all',array(
+			'limit'=>'5',
+			'order'=> array('News.date'=>'DESC')));
+		$events = $this->Event->find('all', array(
+			'limit'=>'5',
+			'order'=> array('Event.date'=>'DESC')));
+		
+		//$this->paginate = array('order'=>array('News.date'=>'asc'));
+		$this->set(compact('links','supports','news','events'));
 	}
 	
 	public function apresentacao(){
@@ -103,19 +116,34 @@ class PagesController extends AppController {
 		
 	}
 	
-	public function noticias(){
+	public function municipios(){
 		
 	}
 	
-	public function agenda(){
+	public function eventos(){
 		
 	}
 	
-	public function artigos(){
+	public function biblioteca(){
 		
 	}
 	
 	public function search(){
-		
+		$term = $this->request->data['Search']['search'];
+		$evento = $this->Event->find('all',
+			array(
+				'conditions'=> array('Event.name LIKE'=>'%'.$term.'%')
+			));	
+		$busca = $this->News->find('all',
+			array(
+				'fields' => array('News.id','News.title','News.date'),
+				'conditions'=> array('News.title LIKE'=>'%'.$term.'%'),
+				'order' => array('News.date'=>'DESC')
+			));
+		$this->set(compact('busca','evento'));
+	}
+	
+	public function login(){
+		var_dump($this->request->data);exit;
 	}
 }

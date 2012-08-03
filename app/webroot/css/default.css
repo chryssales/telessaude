@@ -1,6 +1,6 @@
 @CHARSET "ISO-8859-1";
 body{
-	margin:0 0 0 0;
+	margin:0px 0px 0px 0px;
 	font-family: Arial;
 	font-size: 12px;
 	background-image: url("../img/bg.png");
@@ -9,9 +9,18 @@ body{
 	height: 100%;
 }
 
-.top{
+.topo{
 	background: url('../img/bgTop.png') repeat-x; 
 	height:42px;
+	width: 100%;
+	//position: fixed;
+	//margin-top: -40px;
+	//z-index: 9999;
+}
+
+.headerIcons{
+	float:right; 
+	padding:0px 5px;
 }
 
 .searchButton input{
@@ -34,7 +43,8 @@ body{
 	text-align: left;
 }
 
-.whiteLink
+.whiteLink,
+.whiteLink a
 {
 	text-decoration: none;
 	color: #ffffff;
@@ -49,17 +59,17 @@ body{
 
 .leftColumn
 {
-	width: 20%;
+	width: 10%;
 }
 
 .rightColumn
 {
-	width: 20%;
+	width: 9%;
 }
 
 .middleColumn
 {
-	width: 60%;
+	width: 80%;
 }
 
 .borderLogin
@@ -80,21 +90,205 @@ body{
 	border:1px solid #999999;
 }
 
-.menuTop{
+
+
+.noticia a,
+.links a{
+	color:#A70000;
+	text-decoration: none;
+}
+
+.links li{
+	list-style-type: square;
+	color: #A70000;
+}
+
+#body-content{
+	//margin-top: 40px;
+}
+
+.content{
+	padding:10px 20px;
+}
+
+.newsHeading{
+	font-size: 28px;
+	color: #A70000;
+	font-weight: bold;
+	margin-bottom: 15px;
+	margin-top: 10px;
+}
+
+.newsDate,
+.newsSource{
+	font-size:11px;
+	font-style: italic;
+	color: #333333;
+	margin: 5px 0px 10px 0px;
+}
+
+.newsBody{
+	font-size:12px;
+	color: #000000;
+	text-align: justify;
+}
+
+#search .input{
+	float:left;
+	width:90%;
+}
+
+#search .input input{
+	width: 200px;
+	height: 20px;
+}
+
+.searchButton{
+	float:left;
+}
+
+.underLine{
+	border-bottom: 1px solid #c0c0c0;
+}
+
+.section{
+	font-size: 20px;
+	color:#666666;
+	margin-bottom: 10px;
+}
+
+.loginheader
+{
+	float: right; 
+	width: 40%; 
+	min-width: 450px;
+	padding-top: 10px;
+	text-align: left;
+}
+
+.logoheader
+{
+	float: left; 
+	width: 25%; 
+	margin-top: 25px; 
+	margin-right: 40px; 
+	margin-bottom:20px;
+	text-align: left;
+	min-width: 234px;
+}
+
+#search
+{
+	width:282px; float: right;
+}
+
+#services .images
+{
+	background-color: #f0f0f0;
+	border: 1px solid #c0c0c0;
+}
+
+#services
+{
+	margin-bottom: 10px;
+}
+
+#news
+{
+	width:45%; 
+	float:left; 
+	margin: 5px 10px 0px 10px;
+}
+
+#events
+{
+	padding:10px 10px;
+	width:530px; 
+	float:left; 
+	background-color: #f0f0f0; 
+	margin: 5px 10px 5px 10px;
+}
+
+#links
+{
+	width:50%; 
+	float:left; 
+	margin: 5px 10px 5px 10px; 
+	position: relative;
+}
+
+#support
+{
+	 width:46%; 
+	 float:left; 
+	 margin: 5px 10px 5px 10px; 
+	 position: relative;
+}
+
+#social
+{
+	width: 75%;
+}
+
+#tweet
+{
+	float: left; 
+	position: relative; 
+	margin-right: 20px; 
+	width: 60%;
+}
+
+#sociallinks
+{
+	float: left; 
+	position: relative; 
+	text-align: left; 
+	padding-bottom: 10px; 
+	width: 38%;
+}
+
+#support ul
+{
+	display: inline;
 	list-style-type: none;
-	background-color: #377ab4;
-	height: 40px;
+}
+
+/*
+
+	CSS DO MENU DO TOPO DA PÁGINA
+
+*/
+
+#menu,
+#menuBottom
+{
 	margin: 0;
-	padding-left: 12%;
+	padding: 0;
+	height: 40px;
+}
+#menu
+{
 	background-image: url("../img/bgMenuTop.png");
 }
 
-.menuTop li{
-	float: left;
+#menuBottom ul,
+#menu ul
+{
+	text-align: center;
+
+	list-style-type: none;
+	line-height: 40px;
 }
 
-.menuTop a{
-	display:block;
+#menuBottom ul li,
+#menu ul li
+{
+	display: inline;
+}
+
+#menuBottom ul li a,
+#menu ul li a{
+	display: inline;
 	line-height: 40px;
 	padding-right: 12px;
 	padding-left:12px;
@@ -104,7 +298,33 @@ body{
 	background-repeat: no-repeat;
 	background-position: right;	
 }
+#menuBottom ul li:last-child a,
+#menu ul li:last-child a{
+	background-image: none;
+}
 
-.menuTop a:hover{
+#menu ul li a:hover,
+#menuBottom ul li a:hover{
 	color: #8ac4ff;
+}
+
+/*	FIM DO CSS DO MENU DO TOPO */
+
+.floatLeft,
+.wellServices
+{
+	float: left;
+	text-align: justify;
+}
+
+.floatLeft
+{
+	width: 40%;
+	margin-right: 40px;
+}
+
+.wellServices
+{
+	width: 28%;
+	margin-right: 10px;
 }

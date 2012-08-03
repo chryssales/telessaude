@@ -67,7 +67,7 @@ class auth_plugin_manual extends auth_plugin_base {
             // because most other plugins can not change password easily or
             // passwords are always specified by users
             set_user_preference('auth_forcepasswordchange', true, $user->id);
-        }
+        }       
         return true;
     }
 

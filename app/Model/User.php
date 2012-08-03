@@ -1,27 +1,19 @@
 <?php
-class User extends AppModel{
+App::uses('AppModel', 'Model');
+/**
+ * User Model
+ *
+ */
+class User extends AppModel {
+/**
+ * Display field
+ *
+ * @var string
+ */
+	public $displayField = 'name';
 	
-	public $name = 'User';
-	public $validate = array(
-		'username' => array(
-			'required' => array(
-				'rule' => array('notEmpty'),
-				'message' => 'Nome de usuario requerido.'
-			)
-		),
-		'password' => array(
-			'required' => array(
-				'rule' => array('notEmpty'),
-				'message' => 'Senha requerida.'
-			)
-		),
-		'role' => array(
-			'valid' => array(
-				'rule' => array('inList', array('admin','author')),
-				'message' => 'Por favor, entre um papel valido',
-				'allowEmpty' => false
-			)
-		)
-	);
+	public function beforeSave($options = array()) {
+        $this->data['User']['password'] = AuthComponent::password($this->data['User']['password']);
+        return true;
+    }
 }
-?>

@@ -3,4 +3,5 @@
 	RewriteCond %{REQUEST_URI} !^/ava/(.*)
     RewriteRule    ^$    webroot/    [L]
     RewriteRule    (.*) webroot/$1    [L]
+	
 </IfModule>

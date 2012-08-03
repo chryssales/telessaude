@@ -51,9 +51,9 @@ $errorcode = 0;
 if ($testsession) {
     if ($testsession == $USER->id) {
         if (isset($SESSION->wantsurl)) {
-            $urltogo = $SESSION->wantsurl;
+            $urltogo = $_SERVER['HTTP_REFERER'];//$SESSION->wantsurl;
         } else {
-            $urltogo = $CFG->wwwroot.'/';
+            $urltogo = $_SERVER['HTTP_REFERER'];//$CFG->wwwroot.'/';
         }
         unset($SESSION->wantsurl);
         redirect($urltogo);
